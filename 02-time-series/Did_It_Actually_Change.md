@@ -10,7 +10,7 @@ I explored this question using Federal Reserve interest rate decisions and stock
 
 ## The Method
 
-For each decision, I looked at the 60 trading days leading up to the event. I used that period to estimate where volatility would have been heading if the existing pattern had simply continued. That gives us a **counterfactual**: an estimate of what might have happened without the event.
+For each decision, I looked at the 60 trading days leading up to the event. I used that period to estimate where volatility would have been heading if the existing pattern had simply continued. That gives us a counterfactual (an estimate of what might have happened without the event).
 
 I then compared that expected trajectory with what actually happened after the Fed's decision. If the two paths stay close, there is little evidence that the event changed the trajectory. If they diverge, the event may have produced a change beyond what the existing trend would have predicted.
 
