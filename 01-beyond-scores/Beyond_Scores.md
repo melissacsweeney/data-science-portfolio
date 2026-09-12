@@ -40,7 +40,7 @@ Perhaps health data could function in a similar way. To explore this idea, I use
 
 Most nutrition feedback is score-based. A user might receive a dietary quality score of 62, then later see it increase to 67. That tells them they improved. It does not necessarily tell them how. To explore an alternative approach, I created dietary heatmaps for two individuals. The resulting visual resembles a behavioral fingerprint.
 
-![Dietary behavioral fingerprints](Fingerprints%20image.png)
+<img src="Fingerprints%20image.png" width="500">
 
 The contrast between the two patterns is immediately visible. One participant's dietary pattern is characterized by vegetables, fruit, whole grains, and lean protein. The other pattern is characterized by processed snacks, processed foods, sugary drinks, and added sugar. Importantly, the value of the visualization is not simply that one pattern appears healthier than the other. The value is that users can see where the differences lie.
 
@@ -70,7 +70,7 @@ These are valuable questions. But they are not the only questions. Another possi
 
 To illustrate this question, I created a simple network analysis including behavioral variables, wellbeing measures, and biological markers.
 
-![Lifestyle and Wellbeing Network](Network%20image.png)
+<img src="Network%20image.png" width="750">
 
 Two patterns emerge:
 
