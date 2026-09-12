@@ -3,7 +3,7 @@ Data science projects exploring measurement, causal inference, and decision-maki
 
 ## Projects
 
-### 1. Measurement: ***Beyond Scores: Designing Health Data for Human Understanding***
+### 1. Measurement - Beyond Scores: Designing Health Data for Human Understanding
 
 How might health data become more meaningful to the people using it?
 
@@ -12,7 +12,7 @@ How might health data become more meaningful to the people using it?
 Methods: NHANES · behavioral pattern analysis · network analysis ·
 measurement
 
-### 2. Causal Inference: ***Did It Actually Change, or Was It Already Trending That Way?***
+### 2. Causal Inference - Did It Actually Change, or Was It Already Trending That Way?
 
 An interrupted time series analysis examining market volatility
 around Federal Reserve decisions.
@@ -22,7 +22,7 @@ around Federal Reserve decisions.
 Methods: interrupted time series · counterfactual reasoning ·
 causal inference
 
-### 3. Decision Making: ***Is the Evidence Strong Enough to Build the Feature?***
+### 3. Decision Making - Is the Evidence Strong Enough to Build the Feature?
 
 An analysis of whether observational evidence is sufficient to
 justify a medication-adherence intervention.
