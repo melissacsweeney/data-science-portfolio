@@ -17,7 +17,7 @@ measurement
 An interrupted time series analysis examining market volatility
 around Federal Reserve decisions.
 
-[**→ Read the analysis**](./Is%20the%20Evidence%20Strong%20Enough.ipynb)
+**[→ Read the analysis](./02-time-series/Did_It_Actually_Change.md)**
 
 Methods: interrupted time series · counterfactual reasoning ·
 causal inference
@@ -27,7 +27,7 @@ causal inference
 An analysis of whether observational evidence is sufficient to
 justify a medication-adherence intervention.
 
-**[→ Read the analysis](./03-statin-adherence/Is_the_Evidence_Strong_Enough.md)**
+**[→ Read the analysis](./03-statin-analysis/Is%20the%20Evidence%20Strong%20Enough.ipynb)**
 
 Methods: propensity scores · matching · statistical testing ·
 causal reasoning · experimentation
