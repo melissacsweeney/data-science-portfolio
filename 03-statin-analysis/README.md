@@ -10,7 +10,7 @@ Using NHANES data, this project examines whether the observed difference in self
 
 ## Read the analysis
 
-**[→ Read Is the Evidence Strong Enough to Build the Feature](./Is_the_Evidence_Strong_Enough.md)**
+[→ Read Is the Evidence Strong Enough to Build the Feature?](./Is_the_Evidence_Strong_Enough.md)
 
 ## Technical work
 
