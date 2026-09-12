@@ -10,7 +10,7 @@ Using NHANES data, this project examines whether the observed difference in self
 
 ## Read the analysis
 
-***[→ Read the analysis](./Is_the_Evidence_Strong_Enough.md)***
+***[→ Read the analysis](./Is%20the%20Evidence%20Strong%20Enough.ipynb)***
 
 ## Technical work
 
