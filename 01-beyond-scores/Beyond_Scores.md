@@ -70,7 +70,7 @@ These are valuable questions. But they are not the only questions. Another possi
 
 To illustrate this question, I created a simple network analysis including behavioral variables, wellbeing measures, and biological markers.
 
-<img src="Network%20image.png" width="750">
+<img src="Network%20image.png" width="650">
 
 Two patterns emerge:
 
