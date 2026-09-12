@@ -16,6 +16,8 @@ I then compared that expected trajectory with what actually happened after the F
 
 ## Findings
 
+![Interrupted time series analysis](./image1.png)
+
 **September 2015: Surprise hold**
 
 The model projected that after a brief spike in the days before the Fed’s decision, volatility would continue rising in line with the overall trend. Instead, actual volatility fell substantially below the projected path after the Fed unexpectedly decided to hold rates steady.
