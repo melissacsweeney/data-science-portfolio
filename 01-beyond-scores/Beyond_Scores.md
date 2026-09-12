@@ -36,7 +36,7 @@ People return to things that are meaningful and help them make sense of somethin
 
 Perhaps health data could function in a similar way. To explore this idea, I used NHANES (National Health and Nutrition Examination Survey) data to examine three different approaches to representing health information.
 
-# 1. Heatmaps: What Pattern Am I Living In?
+# 1. Heatmaps: What Patterns Matter?
 
 Most nutrition feedback is score-based. A user might receive a dietary quality score of 62, then later see it increase to 67. That tells them they improved. It does not necessarily tell them how. To explore an alternative approach, I created dietary heatmaps for two individuals. The resulting visual resembles a behavioral fingerprint.
 
