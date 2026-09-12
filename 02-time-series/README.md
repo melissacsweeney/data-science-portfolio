@@ -4,7 +4,7 @@
 
 When something changes after an event, it is tempting to assume the event caused the change. This project asks a different question: **Did the event actually change the trajectory, or did the outcome simply continue along the path it was already on?**
 
-Using Federal Reserve interest rate decisions and stock market volatility, I compare two decisions — one that surprised markets and one that was expected — using an interrupted time series approach.
+Using Federal Reserve interest rate decisions and stock market volatility, I compare two decisions: one that surprised markets and one that was expected, using an interrupted time series approach.
 
 ## Read the analysis
 
