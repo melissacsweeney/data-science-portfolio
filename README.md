@@ -9,7 +9,7 @@ How might health data become more meaningful to the people using it?
 
 **[→ Read the analysis](./01-beyond-scores/Beyond_Scores.md)**
 
-Methods: NHANES · behavioral pattern analysis · network analysis ·
+Methods: behavioral pattern analysis · network analysis ·
 measurement
 
 ### 2. Causal Inference - Did It Actually Change, or Was It Already Trending That Way?
