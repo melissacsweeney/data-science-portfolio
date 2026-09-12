@@ -17,7 +17,7 @@ measurement
 An interrupted time series analysis examining market volatility
 around Federal Reserve decisions.
 
-**[→ Read the analysis](./02-fed-market-volatility/Did_It_Actually_Change.md)**
+[**→ Read the analysis**](./02-time-series/Did_It_Actually_Change.md)
 
 Methods: interrupted time series · counterfactual reasoning ·
 causal inference
