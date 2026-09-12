@@ -145,7 +145,7 @@ Conversely, someone can have a diagnosis and still function and feel relatively 
 
 # Conclusion
 
-The three examples explored different questions. Taken together, they suggest a broader possibility. Many health systems become optimized around what is easiest to measure, validate, regulate, or report. Those goals are important. But they are not necessarily the same as helping a person ***find meaning in their metrics.  ***
+The three examples explored different questions. Taken together, they suggest a broader possibility. Many health systems become optimized around what is easiest to measure, validate, regulate, or report. Those goals are important. But they are not necessarily the same as helping a person ***find meaning in their metrics. ***
 
 If so, improving engagement may sometimes have less to do with reminders, notifications, and gamification, and more to do with *helping people see patterns, relationships, and progress in ways that feel personally relevant.*
 
