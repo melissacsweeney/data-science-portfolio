@@ -6,7 +6,7 @@ How might health data become more meaningful to the people using it?
 
 This project explores three ways of representing health information:
 
-- **Heatmaps:** What pattern am I living in?
+- **Heatmaps:** What patterns matter?
 - **Network analysis:** Where does this variable sit in the system?
 - **Health stages:** Are we measuring the right outcomes?
 
