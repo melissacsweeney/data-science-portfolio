@@ -24,7 +24,7 @@ causal inference
 
 ### 3. Decision Making - Is the Evidence Strong Enough to Build the Feature?
 
-An analysis of whether observational evidence is sufficient to
+An analysis of whether the evidence is sufficient to
 justify a medication-adherence intervention.
 
 **[→ Read the analysis](./03-statin-analysis/Is%20the%20Evidence%20Strong%20Enough.ipynb)**
