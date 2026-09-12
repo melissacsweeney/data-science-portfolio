@@ -14,4 +14,6 @@ Using Federal Reserve interest rate decisions and stock market volatility, I com
 
 The analysis uses historical VIX data to estimate the pre-event trajectory and construct a counterfactual for what volatility might have looked like if the existing trend had continued.
 
+**[→ View the analysis notebook](./Time%20Series%20Analysis.ipynb)**
+
 **Methods:** interrupted time series · counterfactual reasoning · time-series analysis · VIX · Federal Reserve decisions
