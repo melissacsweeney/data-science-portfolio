@@ -1,0 +1,62 @@
+PROJECT SUMMARY
+
+Title
+Is the Evidence Strong Enough to Build the Feature?
+
+Question
+Among people who are supposed to be taking statins, would improving their adherence improve outcomes enough to justify building a medication-reminder/refill-nudge feature?
+
+Scenario
+A digital health app for cardiology patients is considering an adherence-support feature. The idea comes from an existing observation that people who use statins appear to have better health outcomes.
+
+Data
+NHANES 2015–2016 data, restricted to adults age 40 and older.
+
+Outcome
+Self-reported general health, dichotomized as good health (excellent/very good/good) versus fair/poor health.
+
+Exposure
+Current statin use based on the NHANES medication data. The dataset does not directly measure medication adherence.
+
+Approach
+1. Compare the raw proportion reporting good health among statin users and non-users.
+2. Examine measured characteristics that differ between the groups.
+3. Estimate propensity scores using age, sex, income-to-poverty ratio, vigorous physical activity, smoking history, and doctor visits in the past year.
+4. Match each statin user to a non-user with a similar propensity score using nearest-neighbor matching with a 0.05 caliper.
+5. Check covariate balance before and after matching.
+6. Compare self-reported health in the matched pairs using McNemar's exact test.
+7. Translate the findings into a product decision and identify what evidence would be more useful before building the feature.
+
+Raw result
+Good health:
+- Non-users: 67.2%
+- Statin users: 62.1%
+- Difference: -5.1 percentage points
+- Chi-square test: p = 0.0038
+
+Before matching, statin users were older on average (66.8 vs 56.9 years) and had more doctor visits in the past year (3.82 vs 2.55), among other measured differences.
+
+Matched result
+- Matched pairs retained: 919
+- Statin users reporting good health: 62.0%
+- Matched non-users reporting good health: 65.9%
+- Difference: -3.9 percentage points
+- McNemar's exact test: p = 0.0921
+
+Interpretation
+The difference in reported good health shrank after matching and was not statistically significant. The analysis therefore does not provide enough evidence to justify building the feature based on the observed association between statin use and health.
+
+This is an observational analysis. Propensity score matching makes the groups more comparable on measured characteristics, but it cannot account for unmeasured factors that may influence both statin use and health. The cross-sectional design also limits what can be concluded about temporal sequence or causality.
+
+Product recommendation
+Do not add the feature yet.
+
+A stronger study could follow patients from the point they start statins, establishing timing more clearly and allowing adherence to be studied alongside subsequent outcomes. More objective clinical outcome measures, such as biomarkers, would also strengthen the analysis.
+
+There is also a product-design question underneath the statistical one: why are patients missing their medication? Forgetting is only one possible barrier. If the actual barrier is cost, side effects, or concerns about the medication, a reminder feature may be solving the wrong problem and could result in churn or low engagement.
+
+Next step
+First identify the main barriers to medication adherence. If forgetting is the main barrier, test reminders or refill nudges in a small A/B experiment. Otherwise, the experiment should focus on a feature addressing the identified barrier.
+
+Methods
+Propensity score matching; nearest-neighbor matching; covariate balance; McNemar's exact test; observational data; causal reasoning; experimentation.
