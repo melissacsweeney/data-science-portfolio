@@ -16,7 +16,7 @@ A person opening a health app is often wondering:
 
 - How do these different parts of my life fit together?
 
-Most health companies are very aware that engagement is a challenge. Industry discussions often focus on retention, adherence, activation, churn, habit formation, and behavior change. The implicit question is often:
+Most health companies are very aware that engagement is a challenge with industry discussions often focusing on retention, adherence, activation, churn, habit formation, and behavior change. The implicit question is often:
 
 **How do we get people to engage more?**
 
@@ -24,7 +24,7 @@ An alternative question is:
 
 **What would make the information more meaningful?**
 
-An engagement-centered approach often emphasizes more reminders, more notifications, more streaks, and more gamification. A meaning-centered approach asks:
+An engagement-centered approach often emphasizes more reminders, more notifications, more streaks, and more gamification. A meaning-centered approach considers:
 
 **How can we help users understand something valuable about themselves?**
 
@@ -32,17 +32,15 @@ This raises an interesting possibility:
 
 **To what extent are engagement problems actually meaning problems?**
 
-People return to things that are meaningful and help them make sense of something they care about. Nobody needs a reminder to reread a book that changed how they see the world. Nobody needs a push notification to remember a conversation that mattered.
-
-Perhaps health data could function in a similar way. To explore this idea, I used NHANES (National Health and Nutrition Examination Survey) data to examine three different approaches to representing health information.
+People return to things that are meaningful and help them make sense of something they care about. Health data could function in a similar way. To explore this idea, I used NHANES (National Health and Nutrition Examination Survey) data to examine three different approaches to representing health information.
 
 # 1. Heatmaps: What Patterns Matter?
 
-Most nutrition feedback is score-based. A user might receive a dietary quality score of 62, then later see it increase to 67. That tells them they improved. It does not necessarily tell them how. To explore an alternative approach, I created dietary heatmaps for two individuals. The resulting visual resembles a behavioral fingerprint.
+Most nutrition feedback is score-based. A user might receive a dietary quality score of 62, then later see it increase to 67. That tells them they improved but it does not necessarily tell them how. To explore an alternative approach, I created dietary heatmaps for two individuals. The resulting visual resembles a behavioral fingerprint.
 
 <img src="Fingerprints%20image.png" width="500">
 
-The contrast between the two patterns is immediately visible. One participant's dietary pattern is characterized by vegetables, fruit, whole grains, and lean protein. The other pattern is characterized by processed snacks, processed foods, sugary drinks, and added sugar. Importantly, the value of the visualization is not simply that one pattern appears healthier than the other. The value is that users can see where the differences lie.
+The contrast between the two patterns is immediately visible. One participant's dietary pattern is characterized by vegetables, fruit, whole grains, and lean protein. The other pattern is characterized by processed snacks, processed foods, sugary drinks, and added sugar. Importantly, the value of the visualization is not simply that one pattern appears healthier than the other but rather that users can see where the differences lie.
 
 A score answers:
 
@@ -52,7 +50,7 @@ A pattern answers:
 
 ***What's changing?***
 
-Imagine watching this visualization evolve over several months. The user is no longer watching a number increase. They are watching their behavior change. This aligns with an important shift in nutrition science itself. Diet is increasingly understood as a dietary pattern, yet many user-facing tools still present nutrition as a series of disconnected metrics. A pattern-focused representation may be more intuitive, more meaningful, and ultimately more motivating than a single summary score.
+Imagine watching this visualization evolve over several months. The user is no longer watching a number increase. They are watching their behavior change. This aligns with an important shift in nutrition science itself where diet is increasingly understood as an overall pattern, yet many user-facing tools still present nutrition as a series of disconnected metrics. A pattern-focused representation may be more intuitive, more meaningful, and ultimately more motivating than a single summary score.
 
 # 2. Network Analysis: Where Does This Variable Sit in the System?
 
@@ -64,7 +62,7 @@ Many health analyses focus on prediction.
 
 - Does sleep predict inflammation?
 
-These are valuable questions. But they are not the only questions. Another possibility is:
+These are valuable questions, but they are not the only questions. Another possibility is:
 
 **Where does this variable live relative to the rest of the system?**
 
@@ -90,11 +88,11 @@ This raises a broader question:
 
 **Are there personally meaningful factors we overlook because they do not fit neatly into traditional outcome-focused analyses?**
 
-Traditional statistical analyses help identify what tends to matter across a population on average. Individual users, however, are often asking a different question:
+Traditional statistical analyses help identify what tends to matter across a population on average. Individual users, however, often have a different question:
 
 **What should I pay attention to in my own life?**
 
-A user does not experience an average. A user experiences their own sleep, mood, energy, diet, and caffeine response. This is one reason there is growing interest in personalized medicine, N-of-1 studies, self-tracking, adaptive interventions, and individualized recommendations. Population-level findings remain essential. But users may also benefit from tools that help them discover patterns within their own systems.
+A user does not experience an average. They experience their own sleep, mood, energy, diet, and caffeine response. This is one reason there is growing interest in personalized medicine, N-of-1 studies, self-tracking, adaptive interventions, and individualized recommendations. 
 
 # 3. Health Stages: Are We Measuring the Right Outcomes?
 
@@ -106,9 +104,7 @@ A third question concerns outcome selection itself. Many health analyses default
 
 - Hypertension
 
-These are important outcomes. But they are also relatively late-stage outcomes. If the goal is prevention, resilience, wellbeing, or behavior change, disease may not be the most informative place to look.
-
-One way to think about this is through stages of health development.
+These are important outcomes, but they are also relatively late-stage outcomes. If the goal is prevention, resilience, wellbeing, or behavior change, disease may not be the most informative place to look. One way to think about this is through stages of health development.
 
 | **Stage** | **Example Measures** |
 | --- | --- |
@@ -145,8 +141,4 @@ Conversely, someone can have a diagnosis and still function and feel relatively 
 
 # Conclusion
 
-The three examples explored different questions. Taken together, they suggest a broader possibility. Many health systems become optimized around what is easiest to measure, validate, regulate, or report. Those goals are important. But they are not necessarily the same as helping a person ***find meaning in their metrics.***
-
-If so, improving engagement may sometimes have less to do with reminders, notifications, and gamification, and more to do with *helping people see patterns, relationships, and progress in ways that feel personally relevant.*
-
-Perhaps the future of digital health is not just better measurement. Perhaps it is better meaning-making.
+The three examples explored different questions around how we currently measure outcomes. Many health systems become optimized around what is easiest to measure, validate, regulate, or report. Those goals can have relevance, but they are not necessarily the same as helping a person find meaning in their metrics. It's possible that improving engagement could have less to do with reminders, notifications, and gamification, and more to do with *helping people see patterns, relationships, and progress in ways that feel personally relevant.* The future of digital health may not be just better measurement but also better meaning-making.
