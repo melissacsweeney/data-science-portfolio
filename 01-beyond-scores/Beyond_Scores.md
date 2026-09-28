@@ -32,7 +32,7 @@ This raises an interesting possibility:
 
 **To what extent are engagement problems actually meaning problems?**
 
-People return to things that are meaningful and help them make sense of something they care about. Health data could function in a similar way. To explore this idea, I used NHANES (National Health and Nutrition Examination Survey) data to examine three different approaches to representing health information.
+People return to things that are meaningful and help them make sense of something they care about. This could be applied to health data. To explore this idea, I used NHANES (National Health and Nutrition Examination Survey) data to examine three different approaches to representing health information.
 
 # 1. Heatmaps: What Patterns Matter?
 
@@ -121,21 +121,7 @@ Different measures capture different stages of the process. Many analyses focus 
 
 - Hypertension: yes or no
 
-But if we are interested in prevention, disease may be too far downstream. If we are interested in wellbeing, disease status may be too narrow. A person can have:
-
-- No diagnosed disease
-
-- Poor sleep
-
-- Low energy
-
-- Elevated inflammation
-
-- Social isolation
-
-- Reduced quality of life
-
-Conversely, someone can have a diagnosis and still function and feel relatively well. This raises an important measurement question:
+But if the goal is prevention, disease may be too far downstream. And if we are interested in wellbeing, disease status may be too narrow. A person can have no diagnosed disease yet poor sleep, elevated inflammation, and low energy. Conversely, someone can have a diagnosis and still function and feel relatively well. This raises an important measurement question: 
 
 **What outcomes are we optimizing for, and are they appropriate to the stage of health users are trying to influence?**
 
