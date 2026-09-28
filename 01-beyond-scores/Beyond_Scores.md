@@ -76,7 +76,7 @@ First, depression appears to sit between wellbeing and biological measures, link
 
 Second, caffeine illustrates an important point about variable selection. Caffeine is often omitted from analyses because it does not consistently emerge as a strong predictor of major outcomes such as depression. Yet when viewed through a network lens, caffeine appears closely connected to smoking behavior, highlighting relationships that might be overlooked when focusing only on direct associations with a single outcome.
 
-This shifts the question from:
+This shifts the questions from:
 
 **Is caffeine statistically significant?**
 
@@ -84,7 +84,7 @@ to:
 
 **How does caffeine relate to the rest of the system?**
 
-This raises a broader question:
+and
 
 **Are there personally meaningful factors we overlook because they do not fit neatly into traditional outcome-focused analyses?**
 
@@ -104,7 +104,7 @@ A third question concerns outcome selection itself. Many health analyses default
 
 - Hypertension
 
-These are important outcomes, but they are also relatively late-stage outcomes. If the goal is prevention, resilience, wellbeing, or behavior change, disease may not be the most informative place to look. One way to think about this is through stages of health development.
+These are useful outcomes, but they are relatively late-stage. If the goal is prevention, wellbeing, or behavior change, disease may not be the most informative place to look. An alternative approach would be using stages of health development.
 
 | **Stage** | **Example Measures** |
 | --- | --- |
@@ -127,4 +127,4 @@ But if the goal is prevention, disease may be too far downstream. And if we are 
 
 # Conclusion
 
-The three examples explored different questions around how we currently measure outcomes. Many health systems become optimized around what is easiest to measure, validate, regulate, or report. Those goals can have relevance, but they are not necessarily the same as helping a person find meaning in their metrics. It's possible that improving engagement could have less to do with reminders, notifications, and gamification, and more to do with *helping people see patterns, relationships, and progress in ways that feel personally relevant.* The future of digital health may not be just better measurement but also better meaning-making.
+The three examples explored different questions around how we currently measure outcomes. Many health systems become optimized around what is easiest to measure, validate, regulate, or report. Those goals can have relevance, but they are not necessarily the same as helping a person find meaning in their metrics. It's possible that improving engagement could have less to do with reminders, notifications, and gamification, and more to do with *helping people see patterns, relationships, and progress in ways that feel personally relevant.* The future of digital health may not be just better measurement, but better design that keeps meaning for users in mind.
